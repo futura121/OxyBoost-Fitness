@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Performance Breathing
-permalink: https://futura121.github.io/OxyBoost-Fitness/performance-breathing/
+permalink: /OxyBoost-Fitness/performance-breathing/
 ---
 
 # Performance Breathing

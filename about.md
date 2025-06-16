@@ -1,8 +1,7 @@
-
 ---
 layout: default
 title: About
-permalink: https://futura121.github.io/OxyBoost-Fitness/about
+permalink: /OxyBoost-Fitness/about/
 ---
 
 # About

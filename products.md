@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Products
-permalink: https://futura121.github.io/OxyBoost-Fitness/products/
+permalink: /OxyBoost-Fitness/products/
 ---
 
 # Products
