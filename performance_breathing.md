@@ -6,4 +6,4 @@ permalink: /OxyBoost-Fitness/performance-breathing/
 
 # Performance Breathing
 
-(Paste your Google Doc content here in markdown)
+Test of the content 

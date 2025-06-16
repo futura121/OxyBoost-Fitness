@@ -3,6 +3,9 @@
   <head>
     <meta charset="UTF-8">
     <title>{{ page.title }}</title>
+    <!-- Add optional metadata -->
+    <meta name="description" content="{{ page.description }}">
+    <meta name="keywords" content="{{ page.keywords }}">
   </head>
   <body>
     <header>
@@ -16,6 +19,7 @@
     </header>
 
     <main>
+      <!-- Inject content from the Markdown file -->
       {{ content }}
     </main>
 
