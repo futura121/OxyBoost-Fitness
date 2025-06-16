@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Products
-permalink: /products/
+permalink: /OxyBoost-Fitness/products/
 ---
 
 # Products

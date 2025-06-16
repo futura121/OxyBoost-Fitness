@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Performance Breathing
-permalink: /performance_breathing/
+permalink: /OxyBoost-Fitness/performance-breathing/
 ---
 
 # Performance Breathing

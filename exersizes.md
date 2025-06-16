@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Exersizes
-permalink: /exersizes/
+permalink: /OxyBoost-Fitness/exercises/
 ---
 
 # Exersizes
