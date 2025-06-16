@@ -2,33 +2,12 @@
 <html>
   <head>
     <meta charset="UTF-8">
-    <title>{{ page.title }}</title>
-    <!-- Add optional metadata -->
-    <meta name="description" content="{{ page.description }}">
-    <meta name="keywords" content="{{ page.keywords }}">
+    <title>Welcome</title>
   </head>
   <body>
-    <header>
-      <nav>
-        <a href="/">Home</a> |
-        <a href="/OxyBoost-Fitness/about/">About</a> |
-        <a href="/OxyBoost-Fitness/performance-breathing/">Performance Breathing</a> |
-        <a href="/OxyBoost-Fitness/exercises/">Exercises</a> |
-        <a href="/OxyBoost-Fitness/products/">Products</a>
-      </nav>
-    </header>
-
     <main>
-      <!-- Include content from about_us.md directly on the main page -->
-      {% if page.title == "Home" %}
-        {% include about_us.md %}
-      {% else %}
-        {{ content }}
-      {% endif %}
+      <!-- Include content from about_us.md -->
+      {% include about_us.md %}
     </main>
-
-    <footer>
-      <p>© 2025 OxyBoostd </p>
-    </footer>
   </body>
 </html>
