@@ -19,8 +19,12 @@
     </header>
 
     <main>
-      <!-- Inject content from the Markdown file -->
-      {{ content }}
+      <!-- Include content from about_us.md directly on the main page -->
+      {% if page.title == "Home" %}
+        {% include_relative ../../Downloads/Life/Oxyboost/converted/about_us.md %}
+      {% else %}
+        {{ content }}
+      {% endif %}
     </main>
 
     <footer>
