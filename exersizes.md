@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Exersizes
-permalink: /OxyBoost-Fitness/exercises/
+permalink: https://futura121.github.io/OxyBoost-Fitness/exercises/
 ---
 
 # Exersizes
